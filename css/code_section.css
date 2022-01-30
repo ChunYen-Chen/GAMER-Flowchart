@@ -1,0 +1,16 @@
+.function_box {
+  border-width: 5px;
+  border-style: solid;
+  border-color: blue;
+  text-align: center;
+}
+
+.code_while {
+  border-width: 5px;
+  border-style: solid;
+  border-color: green;
+  text-align: center;
+}
+
+.code_for {
+}
